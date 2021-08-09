@@ -2,7 +2,7 @@
 
 Esse é projeto implementa um jogo da memória com a temática de Yu Gi Oh!
 
-![screenshot](screenshot.png?raw=true 'screenshot')
+![screenshot](screenshot.png?raw=true './img/screenshot')
 
 ### Referências:
 
