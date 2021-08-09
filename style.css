@@ -7,16 +7,16 @@
 body {
   height: 100vh;
   display: flex;
-  background-color: rgb(188, 248, 228);
+  background: url(./img/background.png);
+  background-size: contain;
 }
 
 .memory-game {
-  height: 640px;
-  width: 640px;
+  height: 1000px;
+  width: 1000px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
-  perspective: 1000px; /* perspectiva do usuario no eixo z, quanto maior, maior o efeito da perspectiva */
 }
 
 .card {
@@ -43,7 +43,8 @@ body {
   padding: 20px;
   position: absolute;
   border-radius: 5px;
-  background: rgb(92, 187, 182);
+  background: #d5a959;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   backface-visibility: hidden; /* todo elemento tem uma frente e um verso (ao contrario, como um espelho.) essa propriedade retira o verso */
 }
 
