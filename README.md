@@ -1,6 +1,6 @@
 # Jogo da Memória em JavaScript
 
-Esse é projeto implementa um jogo da memória com a temática de Super Mario!
+Esse é projeto implementa um jogo da memória com a temática de Yu Gi Oh!
 
 ### Referências:
 
